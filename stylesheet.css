@@ -1,0 +1,73 @@
+body {
+    background-color:  rgb(60, 41, 226) ;
+    font-style: oblique;
+    margin-right: 5%;
+    margin-left: 5%;
+border-width: 20px;
+border-style: groove;
+border-color: purple;
+padding-left: 22px;
+padding-right: 22px;
+text-align: center;
+
+}
+
+#list {
+border-width: 1px;
+border-style: solid;
+border-color:  black;  
+padding: 11px;
+margin-left: 35%;
+}
+
+#navlinks {
+
+    position: fixed;
+
+}
+
+
+
+
+.Fireworkzone{
+ color: white;
+   
+}
+
+
+div{
+    color: #000;
+}
+
+h1{
+
+    border-bottom-width: 10px;
+    border-bottom-style: groove;
+    border-bottom-color: lightslategrey;
+    
+
+}
+
+img {
+    border-radius: 50%;
+    height: 50%;
+    width: 61%;
+   border-width: 25px;
+   border-style: double;
+   border-color:  rgb(90, 9, 29) ;
+
+   display: block;
+   
+   margin-left: 19.5%;
+   margin-right: 19.5%;
+
+}
+
+#footer {
+    background-color: rgb(39, 190, 177);
+    
+text-align: center;
+border-width: 10px;
+border-style: solid;
+border-color: black;
+} 
